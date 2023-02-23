@@ -223,7 +223,7 @@
             <img height="80px" src="https://stake-take.com/img/Pylons.svg">
             </td>
           	<td width="130px" align="center">
-            <span><strong>Babylon</strong></span><br><br />
+            <span><strong>Quasar</strong></span><br><br />
             <a href="https://www.quasar.fi/" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://stake-take.com/img/Quasar.svg">
             </td>
