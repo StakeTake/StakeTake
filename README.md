@@ -37,9 +37,9 @@
     <tbody>
         <tr valign="top">
  <td width="130px" align="center">
-            <span><strong>Idep</strong></span><br><br />
-            <a href="https://explorer.stake-take.com/idep/staking/idepvaloper1wkx87e6h6xt7ler87dyscw3zzlmydppsh96vd5" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://stake-take.com/img/IdepNetwork.svg">
+            <span><strong>Aura</strong></span><br><br />
+            <a href="https://explorer.stake-take.com/aura/staking/auravaloper1wkpfyw4cutnh86jr987nqjzyh2e5far6dszelv" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://explorer.stake-take.com/logos/auro.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>MeMe</strong></span><br><br />
