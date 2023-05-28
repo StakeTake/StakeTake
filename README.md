@@ -12,31 +12,57 @@
 <table width="400px" align="center">
     <tbody>
         <tr valign="top">
+			<td width="130px" align="center">
+            <span><strong>Solana</strong></span><br><br />
+            <a href="https://www.validators.app/validators/9oJWvtDMLLM5U5hQ8iZ5LjbZLtHHzys91hvQC6esmsrJ?locale=en&network=mainnet" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/Solana.svg">
+            </td>
+           <td width="130px" align="center">
+            <span><strong>Umee</strong></span><br><br />
+            <a href="https://wallet.keplr.app/#/umee/stake?modal=detail&validator=umeevaloper1wwl9f8wcc0am9wruvmx4hjzdv7ewfcex0lz9vp&all-list=true" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/Umee.svg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Stride</strong></span><br><br />
+            <a href="https://wallet.keplr.app/chains/stride?modal=validator&chain=stride-1&validator_address=stridevaloper12guhgs4zgp787mp0nh8x7kmvtw64acqstjdxjy" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/Stride.svg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Humans</strong></span><br><br />
+            <a href="https://explorer.stake-take.com/humans/staking/humanvaloper1ueev8v666uzcszxd2srpkfzyt62chc62hmv64j" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/humans.jpg">
+            </td>
+</table>
+<table width="400px" align="center">
+    <tbody>
+        <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Quicksilver</strong></span><br><br />
-            <a href="https://quicksilver.explorers.guru/validator/quickvaloper1asdtp0g8ahmga4m0cra6f69nls6z4ane6g4yjc" target="_blank" rel="noopener noreferrer">
+            <a href="https://explorer.stake-take.com/quicksilver/staking/quickvaloper1asdtp0g8ahmga4m0cra6f69nls6z4ane6g4yjc" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://stake-take.com/img/QuicksilverProtocol.svg"> </a>
             </td>
             <td width="130px" align="center">
-            <span><strong>Canto</strong></span><br><br />
-            <a href="https://explorer.stake-take.com/canto/staking/cantovaloper1s5a9nczvvsd82pznj56d3nfngq74gcazvpgfsv" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://stake-take.com/img/canto.svg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Evmos</strong></span><br><br />
-            <a href="https://evmos.org/" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://stake-take.com/img/EvmosisHiring.svg">
+            <span><strong>Gitopia</strong></span><br><br />
+            <a href="https://explorer.stake-take.com/gitopia/staking/gitopiavaloper1cc4an0kn0v96ac67acch676f74xl070sjtq3qe" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/gitopia.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Gravity</strong></span><br><br />
             <a href="https://wallet.keplr.app/#/gravity-bridge/stake?modal=detail&validator=gravityvaloper123a04v3hxf40yl4sa2924v5zpmp7qat6psznex&all-list=true" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://stake-take.com/img/GravityBridge.svg">
-              </td>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Kyve</strong></span><br><br />
+            <a href="https://explorer.stake-take.com/kyve/staking/kyvevaloper1sfwfat9p9k7datgy0kzge7pv0szcd5ycc0jxre" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/kyve.jpg">
+            </td>
+ </tr>
+    </tbody>
 </table>
-<table width="400px" align="center">
+ <table width="400px" align="center">
     <tbody>
         <tr valign="top">
- <td width="130px" align="center">
+	    <td width="130px" align="center">
             <span><strong>Aura</strong></span><br><br />
             <a href="https://explorer.stake-take.com/aura/staking/auravaloper1wkpfyw4cutnh86jr987nqjzyh2e5far6dszelv" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://explorer.stake-take.com/logos/auro.jpg">
@@ -46,40 +72,14 @@
             <a href="https://explorer.stake-take.com/meme/staking/memevaloper12j8867yuc5q7f0g7x0jdwq3qpuv25aq2ngzqf2" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://stake-take.com/img/MemeNetwork.svg">
             </td>
-            <td width="130px" align="center">
-            <span><strong>Rebus</strong></span><br><br />
-            <a href="https://explorer.stake-take.com/rebus-mainnet/staking/rebusvaloper106k0ejdk79r5zvdfgpp95vw7n5w367zn6u9dlj" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://stake-take.com/img/Rebus.svg">
-            </td>
-			<td width="130px" align="center">
-            <span><strong>Solana</strong></span><br><br />
-            <a href="https://www.validators.app/validators/9oJWvtDMLLM5U5hQ8iZ5LjbZLtHHzys91hvQC6esmsrJ?locale=en&network=mainnet" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://stake-take.com/img/Solana.svg">
-            </td>
- </tr>
-    </tbody>
-</table>
- <table width="400px" align="center">
-    <tbody>
-        <tr valign="top">
-          	<td width="130px" align="center">
-            <span><strong>Stride</strong></span><br><br />
-            <a href="https://wallet.keplr.app/chains/stride?modal=validator&chain=stride-1&validator_address=stridevaloper12guhgs4zgp787mp0nh8x7kmvtw64acqstjdxjy" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://stake-take.com/img/Stride.svg">
-            </td>
-           <td width="130px" align="center">
-            <span><strong>Umee</strong></span><br><br />
-            <a href="https://wallet.keplr.app/#/umee/stake?modal=detail&validator=umeevaloper1wwl9f8wcc0am9wruvmx4hjzdv7ewfcex0lz9vp&all-list=true" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://stake-take.com/img/Umee.svg">
-            </td>
-			<td width="130px" align="center">
+	    <td width="130px" align="center">
             <span><strong>Arable</strong></span><br><br />
-            <a href="https://explorer.nodestake.top/acre/staking/acrevaloper17gc07hawajnfg7e4539pmps0zfkwrdf4jskm8x" target="_blank" rel="noopener noreferrer">
+            <a href="https://explorer.stake-take.com/acre/staking/acrevaloper17gc07hawajnfg7e4539pmps0zfkwrdf4jskm8x" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://stake-take.com/img/arable.svg">
             </td>   
             <td width="130px" align="center">
             <span><strong>Pylons</strong></span><br><br />
-            <a href="https://pylons.explorers.guru/validator/pylovaloper1yc06qqa99vz50jrh64fctt0gvjj7pp7n7029c7" target="_blank" rel="noopener noreferrer">
+            <a href="https://explorer.stake-take.com/pylons/staking/pylovaloper1yc06qqa99vz50jrh64fctt0gvjj7pp7n7029c7" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://stake-take.com/img/Pylons.svg">
             </td>
      </tr>
@@ -90,8 +90,23 @@
         <tr valign="top">
           	<td width="130px" align="center">
             <span><strong>Lambda</strong></span><br><br />
-            <a href="https://explorer.nodestake.top/lambda/staking/lambvaloper1vn22ggc6z0h57t5z9jkqslpl7z556fpj6rtutz" target="_blank" rel="noopener noreferrer">
+            <a href="https://explorer.stake-take.com/lambda/staking/lambvaloper1vn22ggc6z0h57t5z9jkqslpl7z556fpj6rtutz" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://stake-take.com/img/Lambda.svg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Rebus</strong></span><br><br />
+            <a href="https://explorer.stake-take.com/rebus-mainnet/staking/rebusvaloper106k0ejdk79r5zvdfgpp95vw7n5w367zn6u9dlj" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/Rebus.svg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Canto</strong></span><br><br />
+            <a href="https://explorer.stake-take.com/canto/staking/cantovaloper1s5a9nczvvsd82pznj56d3nfngq74gcazvpgfsv" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/canto.svg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Evmos</strong></span><br><br />
+            <a href="https://explorer.stake-take.com/evmos/staking/evmosvaloper1adl6xd3klu689caymhn6hhakpfues5e30n5p3m" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://stake-take.com/img/EvmosisHiring.svg">
             </td>
              </tr>
     </tbody>
